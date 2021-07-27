@@ -1,3 +1,5 @@
+**Esta es una traducción de los términos y condiciones de uso de Forem, la plataforma sobre la cual construimos tacosdedatos.dev**
+
 ## 1. Condiciones
 
 Al acceder a este sitio web, usted acepta estar sujeto a estos Términos y Condiciones de Uso del Sitio Web, nuestra [Política de Privacidad](https://www.tacosdedatos.dev/privacidad), todas las leyes y regulaciones aplicables, y acepta que es responsable del cumplimiento de las leyes locales aplicables. Si no está de acuerdo con alguno de estos términos, tiene prohibido usar o acceder a este sitio. Los materiales contenidos en este sitio web están protegidos por las leyes de derechos de autor y marcas registradas aplicables.
