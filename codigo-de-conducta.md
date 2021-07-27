@@ -1,3 +1,4 @@
+**Esta es una traducción del código de conducta de Forem, la plataforma sobre la cual construimos tacosdedatos.dev**
 
 Se espera que todos los participantes de tacosdedatos cumplan con nuestro Código de conducta, tanto en línea como durante los eventos en persona que se organizan y / o se asocian con tacosdedatos.
 
@@ -25,17 +26,17 @@ Ejemplos de comportamiento inaceptable por parte de los participantes incluyen:
 * Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
 * Desestimar o atacar solicitudes orientadas a la inclusión
 
-Nos comprometemos a priorizar la seguridad de las personas marginadas sobre las personas privilegiadas comodidad. No actuaremos sobre las quejas relacionadas con:
+Nos comprometemos a priorizar la seguridad de las personas marginadas sobre la comodidad de las personas privilegiadas. No actuaremos sobre las quejas relacionadas con:
 
 * ismos 'inversos', incluidos 'racismo inverso', 'sexismo inverso' y 'cisfobia'
-* Comunicación razonable de límites, como 'déjame en paz', 'vete' o 'yo No voy a discutir esto contigo.
-* La negativa de alguien a explicar o debatir conceptos de justicia social
+* Comunicación razonable de límites, como 'déjame en paz', 'vete' o 'yo no voy a discutir esto contigo'.
+* La negación de alguien a explicar o debatir conceptos de justicia social
 * Críticas de conductas o suposiciones racistas, sexistas, cissexistas o de otro modo opresivo
 
 
-## Aplicación de la ley
+## Aplicación de la normativa
 
-Las infracciones del Código de conducta pueden informarse comunicándose con el equipo a través del[ formulario de denuncia de abuso](https://www.tacosdedatos.dev/report-abuse) o enviando un correo electrónico a [chekos@tacosdedatos.com](mailto:chekos@tacosdedatos.com). Todos los informes serán revisados ​​e investigados y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. Se pueden publicar más detalles de las políticas de aplicación específicas por separado.
+Las infracciones del Código de Conducta pueden informarse comunicándose con el equipo a través del [formulario de denuncia de abuso](https://www.tacosdedatos.dev/report-abuse) o enviando un correo electrónico a [chekos@tacosdedatos.com](mailto:chekos@tacosdedatos.com). Todos los informes serán revisados ​​e investigados y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. Se pueden publicar más detalles de las políticas de aplicación específicas por separado.
 
 Los moderadores tienen el derecho y la responsabilidad de eliminar comentarios u otras contribuciones que no estén alineadas con este Código de Conducta, o de suspender temporal o permanentemente a cualquier miembro por otros comportamientos que consideren inapropiados, amenazantes, ofensivos o dañinos.
 
