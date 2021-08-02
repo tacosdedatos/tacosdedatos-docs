@@ -1,4 +1,4 @@
-**Esta es una traducción de la política de privacidad de Forem, la plataforma sobre la cual construimos tacosdedatos.dev**
+**Esta es una traducción de la política de privacidad de Forem, la plataforma sobre la cual construimos tacosdedatos.com**
 
 Efectiva a partir del 25 de mayo de 2018
 
