@@ -1,8 +1,8 @@
-**Esta es una traducción de los términos y condiciones de uso de Forem, la plataforma sobre la cual construimos tacosdedatos.dev**
+**Esta es una traducción de los términos y condiciones de uso de Forem, la plataforma sobre la cual construimos tacosdedatos.comev**
 
 ## 1. Condiciones
 
-Al acceder a este sitio web, usted acepta estar sujeto a estos Términos y Condiciones de Uso del Sitio Web, nuestra [Política de Privacidad](https://www.tacosdedatos.dev/privacidad), todas las leyes y regulaciones aplicables, y acepta que es responsable del cumplimiento de las leyes locales aplicables. Si no está de acuerdo con alguno de estos términos, tiene prohibido usar o acceder a este sitio. Los materiales contenidos en este sitio web están protegidos por las leyes de derechos de autor y marcas registradas aplicables.
+Al acceder a este sitio web, usted acepta estar sujeto a estos Términos y Condiciones de Uso del Sitio Web, nuestra [Política de Privacidad](https://www.tacosdedatos.com/privacidad), todas las leyes y regulaciones aplicables, y acepta que es responsable del cumplimiento de las leyes locales aplicables. Si no está de acuerdo con alguno de estos términos, tiene prohibido usar o acceder a este sitio. Los materiales contenidos en este sitio web están protegidos por las leyes de derechos de autor y marcas registradas aplicables.
 
 ## 2. Licencia de uso
 
@@ -38,7 +38,7 @@ tacosdedatos no ha revisado todos los sitios vinculados a su sitio web de Intern
 
 ## 7. Derechos de autor / Eliminación
 
-Los usuarios aceptan y certifican que tienen derecho a compartir todo el contenido que publican en tacosdedatos.dev, incluida, entre otras, la información publicada en artículos, discusiones y comentarios. Esta regla se aplica a prosa, fragmentos de código, colecciones de enlaces, etc. Independientemente de la cita, los usuarios no pueden publicar contenido copiado y pegado que no les pertenezca. Los usuarios asumen todo el riesgo por el contenido que publican, incluida la confianza de otra persona en su precisión, reclamos relacionados con la propiedad intelectual u otros derechos legales. Si cree que un usuario ha plagiado contenido, tergiversó su identidad, se apropió indebidamente de su trabajo o de alguna otra manera ha incumplido las regulaciones de la DMCA, envíe un correo electrónico a [chekos@tacosdedatos.com](mailto:chekos@tacosdedatos.com). tacosdedatos puede eliminar cualquier contenido que publiquen los usuarios por cualquier motivo.
+Los usuarios aceptan y certifican que tienen derecho a compartir todo el contenido que publican en tacosdedatos.com, incluida, entre otras, la información publicada en artículos, discusiones y comentarios. Esta regla se aplica a prosa, fragmentos de código, colecciones de enlaces, etc. Independientemente de la cita, los usuarios no pueden publicar contenido copiado y pegado que no les pertenezca. Los usuarios asumen todo el riesgo por el contenido que publican, incluida la confianza de otra persona en su precisión, reclamos relacionados con la propiedad intelectual u otros derechos legales. Si cree que un usuario ha plagiado contenido, tergiversó su identidad, se apropió indebidamente de su trabajo o de alguna otra manera ha incumplido las regulaciones de la DMCA, envíe un correo electrónico a [chekos@tacosdedatos.com](mailto:chekos@tacosdedatos.com). tacosdedatos puede eliminar cualquier contenido que publiquen los usuarios por cualquier motivo.
 
 ## 8. Modificaciones de los términos de uso del sitio
 
